@@ -80,14 +80,6 @@ sitemap:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
-  # - type: git
-  #   repo: https://github.com/mafeifan/mafeifan.github.io
-  #   branch: master
   - type: git
     repo: https://github.com/mafeifan/mafeifan.github.io
-    branch: resource
-    extend_dirs: scaffolds,source,tags,themes
-    ignore_hidden: true
-    ignore_pattern:
-      public: .
-      node_modules: .
+    branch: master
