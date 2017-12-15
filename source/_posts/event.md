@@ -105,6 +105,7 @@ IE8以及以前可以通过 `window.event.cancelBubble=true`阻止事件的继�
 当点击outC的时候，只会打印出capture->target，不会打印出bubble。因为当事件传播到outC上的处理函数时，通过stopPropagation阻止了事件的继续传播，所以不会继续传播到冒泡阶段。
 
 继续修改代码
+
 ```javascript
 	// 目标  
 	outC.addEventListener('click',function(event){ alert("target");}, false);  
@@ -118,6 +119,7 @@ IE8以及以前可以通过 `window.event.cancelBubble=true`阻止事件的继�
 		event.stopPropagation();
 	}, true);           
 ```
+
 当点击outC的时候，只会打印出capture而没有触发outC上的事件处理函数。
 因为outA上的捕获事件是先执行的，触发了里面event.stopPropagation()就不会再执行任何传播事件了。
 
@@ -165,6 +167,39 @@ stopImmediatePropagation比stopPropagation多做了第一件事情，这就是�
 {% note warning %}
 注意：不要用return false;来阻止event的默认行为，原因[见](http://www.jianshu.com/p/56b64b523f10)
 {% endnote %}
+
+### 关于 addEventListener 和 on
+使用on后面的会覆盖前面事件，而addEventListener不会
+比如页面上有 `<div id="box">追梦子</div>`
+
+```javascript
+window.onload = function(){
+  var box = document.getElementById("box");
+  box.onclick = function(){
+    console.log("我是box1");
+  }
+  box.onclick = function(){
+    box.style.fontSize = "18px";
+    console.log("我是box2");
+  }
+}
+```
+运行结果："我是box2"
+
+```javascript
+window.onload = function(){
+  var box = document.getElementById("box");
+  box.addEventListener("click",function(){
+    console.log("我是box1");
+  })
+  box.addEventListener("click",function(){
+    console.log("我是box2");
+  })
+}
+```
+运行结果：我是box1, 我是box2
+
+关于addEventListener的第三个参数，true代表捕获阶段处理, false代表冒泡阶段处理。不写默认false。
 
 ### 参考
 https://developer.mozilla.org/zh-CN/docs/Web/API/event
