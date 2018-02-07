@@ -103,7 +103,7 @@ gulpfile中有一个被弃用的名为version的task。使用revCollector模块�
 
 ## 总结
 对于比较小的项目，使用gulp还是很方便的。看着比较清晰。
-还有一个小技巧是，如果你可以[github gist](https://gist.github.com/search?utf8=%E2%9C%93&q=gulpfile+stars%3A%3E100&ref=searchresults)搜下别人的gulpfile都是怎么写的。能获得不少灵感。
+还有一个小技巧是，比如你可以到[github gist](https://gist.github.com/search?utf8=%E2%9C%93&q=gulpfile+stars%3A%3E100&ref=searchresults)搜下别人的gulpfile都是怎么写的。能获得不少灵感。
 
 ```javascript
 const fs = require('fs');

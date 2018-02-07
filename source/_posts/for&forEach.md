@@ -18,7 +18,7 @@ for (var i = 0; i < currentListeners.length; i++) {
   currentListeners[i]()
 }
 ```
-
+一样的结果，为啥要改成这样？
 <!--more-->
 
 因为forEach性能比for循环低。这里还给出实际例子 http://jsfiddle.net/ssSt5/2/
@@ -57,10 +57,13 @@ var forEachTime = runTest('forEach', function() {
 ```
 
 运行结果：
+
 ```
 for: 13.484130859375ms
 forEach: 192.06494140625ms
 ```
+
+效率相差近10倍！
 
 ### forEach相比普通的for循环的优势在于对稀疏数组的处理，会跳过数组中的空位。
 

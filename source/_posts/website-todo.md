@@ -28,15 +28,16 @@ tags: website
 
 ### 网站待处理的问题
 
+- 顶置功能
+- 文章封面图(看来需要换个主题了)
 - blog版本对比
 - 提速，合并JS
 - 头像等细节
 - 仿 分成技术和生活两大板块
 
 ### 在其他电脑上写blog的方法
-* git checkout resource分支
+* git checkout master分支
 * npm install
 * hexo g -d 编译并部署
-* 注意：永远不要在master分支上手动提交代码，只需在resource分支改动
 
 
