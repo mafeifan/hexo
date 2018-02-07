@@ -1,5 +1,5 @@
 ---
-title: 收集的牛逼的网站
+title: 收集的好用的网站
 date: 2017-08-03 21:21:23
 tags: Tools
 ---
@@ -8,8 +8,11 @@ tags: Tools
 https://www.javascripting.com/
 
 知识协作平台，可以管理文档，日程安排，任务管理等
-不过说实话这类工具已经比较多，我感觉Tower就不错，虽然也是抄的国外的。
+比起tower有自己的特点
 https://www.notion.so/
+
+团队及项目管理系统
+https://asana.com/
 
 36kr推出的收集产品的网站
 http://next.36kr.com/users/199755/posts/collections/favorites
@@ -19,6 +22,18 @@ http://next.36kr.com/users/199755/posts/collections/favorites
 在线可视化创建CSS3 animate
 http://cssanimate.com/
 
+Convert curl syntax to Python, Node.js, PHP
+curl是一个在linux下极其常见的发送http请求的命令，这个工具用命令行转换为用编程语言实现
+https://curl.trillworks.com/
+
+Generate your Content Security Policy header with this online generator.
+https://www.cspisawesome.com/
+
+免费简单好用的 Linux/Windows 面板
+http://www.bt.cn/
+
+全局鼠标手势
+http://www.yingdev.com/projects/wgestures
 
 
 <!--more-->
