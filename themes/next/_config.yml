@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2016
 
 # icon between year and author @Footer
 authoricon: heart
@@ -118,7 +118,7 @@ links_title: 友情链接
 links:
   RSS: /sitemap.xml
   liyu: http://liyu.fun/
-  
+
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
@@ -165,7 +165,7 @@ sidebar:
 
   # Scroll percent label in b2t button
   scrollpercent: false
-  
+
   # Enable sidebar on narrow view
   onmobile: false
 

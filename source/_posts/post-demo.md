@@ -78,6 +78,19 @@ a    | b    | c
 d    | e    | f
 g    | h    | i
 
+## Next 主题
+
+{% cq %} 引用文本，适合单行显示 {% endcq %}
+
+{% note warning %} 提醒 Bootstrap Callout {% endnote %}
+
+{% note primary %} 主要 Bootstrap Callout {% endnote %}
+
+{% note danger %} 危险 Bootstrap Callout {% endnote %}
+
+{% note info %} 信息 Bootstrap Callout {% endnote %}
+
+{% note default %} 默认 Bootstrap Callout {% endnote %}
 
 
 ## 参考
