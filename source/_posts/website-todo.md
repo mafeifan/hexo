@@ -6,7 +6,7 @@ tags: website
 
 
 ### 更新记录
-
+- 2018.2.08 修改avatar，添加about页面
 - 2017.9.01 升级为https
 - 2017.8.18 加入 CNZZ 统计
 - 2017.8.09 安装 https://github.com/hexojs/hexo-generator-sitemap 插件
@@ -40,4 +40,6 @@ tags: website
 * npm install
 * hexo g -d 编译并部署
 
+### 网站主题
+http://theme-next.iissnan.com/getting-started.html
 
