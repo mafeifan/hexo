@@ -14,9 +14,16 @@ tags: chrome
 
 ![param][1]
 
-但是对于普通用户就不那么方便了。所以出于对自己的需求，我开发了一款基于chrome浏览器的扩展程序。
+对于普通用户就不那么方便了。而且出于对自己的需求，我就开发了一款基于chrome浏览器的扩展程序。
 有如下功能：
 1. 打开有背景音乐的游记页面，自动弹出通知。显示该歌曲的歌手，专辑和风格等信息。
 2. 右键菜单可下载该歌曲。
 
 ![param][2]
+
+### 相关链接：
+[webstore下载地址](https://chrome.google.com/webstore/detail/mafengwo-mp3-downloader/olngcgpfadeplnlikpbklbgbkahhgccp)
+[源码托管在github](https://github.com/mafeifan/mafengwo-mp3-downloader)
+
+关于如何将chrome插件发布到webstore上面，这里有[官方教程](https://developer.chrome.com/webstore/publish)，还需要支付5美元，可以用信用卡，我建议办一张招商的全币种信用卡，很方便。
+支付时国家地区选择香港。然后找个香港的地址填下就行了。
