@@ -54,3 +54,4 @@ echo 0
 1. 不用非得使用node，也可以使用PHP，Python等可以执行shell的语言
 2. 编译后的文件在public目录，nginx要指向这里
 3. 本地开发测试建议使用 ngrok 能节约不少时间
+4. 修改博客内容直接在gitee上进行，还可以预览markdown挺方便的
