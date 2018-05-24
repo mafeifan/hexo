@@ -6,6 +6,7 @@ tags: website
 
 
 ### 更新记录
+- 2018.5.22 移到个人腾讯云服务器，新域名 www.mafeifan.com
 - 2018.2.08 修改avatar，添加about页面
 - 2017.9.01 升级为https
 - 2017.8.18 加入 CNZZ 统计
