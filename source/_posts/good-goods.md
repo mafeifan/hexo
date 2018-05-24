@@ -12,7 +12,7 @@ tags:
 
 ### 电动牙刷  
 4星
-我这个人是比较懒的，刷牙都嫌累。刚开始使用[电动牙刷](http://you.163.com/item/detail?id=1154003&_stat_area=2&_stat_referer=search&_stat_query=%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7&_stat_count=3&_stat_searchversion=0.4)的时候会很不习惯，牙齿比较痒，三天后就好适应，关键不贵，活动期间不到180，记得先去某宝上买96当100的充值卡哦。
+我这个人是比较懒的，刷牙都嫌累。刚开始使用[电动牙刷](http://you.163.com/item/detail?id=1154003&_stat_area=2&_stat_referer=search&_stat_query=%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7&_stat_count=3&_stat_searchversion=0.4)的会很不习惯，使用过程时牙齿感觉比较痒，三天就好适应了，关键不贵，活动期间不到180，记得先去某宝上买96当100的充值卡哦。
 
 
 <!--more-->
