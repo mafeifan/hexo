@@ -7,7 +7,7 @@ tags: Tools
 查看当前流行的JS框架，类型和插件
 https://www.javascripting.com/
 
-查看被引用最多的node模块，侧面了解最流行的node模块
+查看被引用最多的node模块，侧面了解最流行的node模块，可以挑几个简单的研究源码
 https://www.npmjs.com/browse/depended
 
 知识协作平台，可以管理文档，日程安排，任务管理等
