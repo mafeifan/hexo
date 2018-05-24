@@ -16,7 +16,7 @@ npm install -g hexo-cli
 npm install
 ```
 
-还需要跑一个node express程序，我主机上本来就有，添加一个接口。
+还需要跑一个node express程序，主机上本来就有，添加一个接口。用于web hook调用。
 代码大致如下:
 
 ```javascript
@@ -52,4 +52,5 @@ echo 0
 
 总结：
 1. 不用非得使用node，也可以使用PHP，Python等可以执行shell的语言
-2. 编译的后的文件在public目录
+2. 编译后的文件在public目录，nginx要指向这里
+3. 本地开发测试建议使用 ngrok 能节约不少时间
