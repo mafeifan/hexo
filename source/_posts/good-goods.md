@@ -12,7 +12,7 @@ tags:
 
 ### 电动牙刷  
 4星
-我这个人是比较懒的，刷牙都嫌累。刚开始使用[电动牙刷](http://you.163.com/item/detail?id=1154003&_stat_area=2&_stat_referer=search&_stat_query=%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7&_stat_count=3&_stat_searchversion=0.4)的使用，很不习惯，比较痒，过三天就好了，而且确实。关键不贵啊，活动期间不到180，记得先去某宝上买96当100的充值卡哦。
+我这个人是比较懒的，刷牙都嫌累。刚开始使用[电动牙刷](http://you.163.com/item/detail?id=1154003&_stat_area=2&_stat_referer=search&_stat_query=%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7&_stat_count=3&_stat_searchversion=0.4)的时候会很不习惯，牙齿比较痒，三天后就好适应，关键不贵，活动期间不到180，记得先去某宝上买96当100的充值卡哦。
 
 
 <!--more-->
@@ -21,8 +21,9 @@ tags:
 4星
 
 [小米降噪耳机](https://www.mi.com/earphonetype-c/)米粉节购入的，加上券209购入。降噪效果确实不错，属于那种用了就回不去的。非常适合公司，地铁里使用。
-两耳不闻窗外事，专心致志敲代码。嘿嘿
-但是音质跟网上的评价一样，一般。高端的咱也买不起啊。
+两耳不闻窗外事，专心致志敲代码。
+但是音质跟网上的评价一样，一般。高端的[WI-1000x](https://item.jd.com/5463278.html)和[Bose qc30](https://item.jd.com/4406782.html) 咱也买不起啊。
+
 
 ### ventry泰国乳胶枕 
 2星
