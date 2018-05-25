@@ -4,7 +4,7 @@ date: 2018-02-07 22:20:33
 tags: 职业发展
 ---
 
-[1]:/images/five-level-engineer/cover.png
+[1]:https://hexo-blog.pek3b.qingstor.com/2018/02/five-level-engineer.jpg
 
 ![cover][1]
 <!--more-->
