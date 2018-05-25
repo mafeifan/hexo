@@ -4,13 +4,15 @@ date: 2018-02-08 11:49:33
 tags: chrome
 ---
 
-[1]:/images/180208_chrome-plugin-mafengwo/1.png
-[2]:/images/180208_chrome-plugin-mafengwo/2.gif
+闲暇时候喜欢去[马蜂窝](http://www.mafengwo.cn/)这个网站看一些用户写的游记，其中有些配的背景音乐蛮好听的。比如[这个](http://www.mafengwo.cn/i/8332498.html)，如果想下载下来，对一个程序员来说是件非常容易的事情。
+只需右键 - 审查元素，找到并复制audio音乐标签的真实地址，最后用下载软件下载就可以了。
 
 <!--more-->
 
-闲暇时候喜欢去[马蜂窝](http://www.mafengwo.cn/)这个网站看一些用户写的游记，其中有些配的背景音乐蛮好听的。比如[这个](http://www.mafengwo.cn/i/8332498.html)，如果想下载下来，对一个程序员来说是件非常容易的事情。
-只需右键 - 审查元素，找到并复制audio音乐标签的真实地址，最后用下载软件下载就可以了。
+[1]:/images/180208_chrome-plugin-mafengwo/1.png
+[2]:https://hexo-blog.pek3b.qingstor.com/mafengwo.gif
+
+
 
 ![param][1]
 
