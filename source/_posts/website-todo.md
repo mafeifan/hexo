@@ -1,5 +1,5 @@
 ---
-title: 网站待处理的问题
+title: 网站更新记录
 date: 2017-07-29 17:27:37
 tags: website
 ---
@@ -25,8 +25,6 @@ tags: website
 - RSS支持
 答：/sitemap.xml
 
-
-
 ### 网站待处理的问题
 
 - 顶置功能
@@ -40,6 +38,8 @@ tags: website
 * git checkout master分支
 * npm install
 * hexo g -d 编译并部署
+* 因为源码是部署在gitee, 支持markdown预览，直接在上面修改保存提交即可
+
 
 ### 网站主题
 http://theme-next.iissnan.com/getting-started.html
