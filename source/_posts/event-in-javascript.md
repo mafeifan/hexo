@@ -10,7 +10,7 @@ tags: javascript
 
 我们知道HTML中的元素是可以嵌套的，形成类似于树的层次关系。比如下面的代码：
 
-```javascript
+```html
 <div id="outA" style="height:300px;width:300px;padding:50px;background:gray;">A  
     <div id="outB" style="height:200;width:200px;padding:50px;background:blue;"> B 
 		<div id="outC" style="height:100px;width:100px;background:yellow;">C</div>   
