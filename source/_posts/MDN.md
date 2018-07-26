@@ -15,26 +15,29 @@ html元素有一个全局属性。dataset。通过`data-yourCustom`的方式给D
 
 看下面的例子中以`data-`开头的属性
 
-<div id="user" data-id="1234567890" data-user="johndoe" data-date-of-birth>John Doe</div>
-
-
-		``` javascript
-		var el = document.querySelector('#user');
-
-		// el.id == 'user'
-		// el.dataset.id === '1234567890'
-		// el.dataset.user === 'johndoe'
-		// el.dataset.dateOfBirth === ''
-
-		el.dataset.dateOfBirth = '1960-10-03'; // set the DOB.
-
-		// 'someDataAttr' in el.dataset === false
-
-		el.dataset.someDataAttr = 'mydata';
-		// 'someDataAttr' in el.dataset === true
-		```
 
 <!--more-->
+
+```
+<div id="user" data-id="1234567890" data-user="johndoe" data-date-of-birth>John Doe</div>
+```
+
+
+``` javascript
+var el = document.querySelector('#user');
+
+// el.id == 'user'
+// el.dataset.id === '1234567890'
+// el.dataset.user === 'johndoe'
+// el.dataset.dateOfBirth === ''
+
+el.dataset.dateOfBirth = '1960-10-03'; // set the DOB.
+
+// 'someDataAttr' in el.dataset === false
+
+el.dataset.someDataAttr = 'mydata';
+```
+
 
 ### [内容安全策略（CSP）](https://developer.mozilla.org/zh-CN/docs/Web/Security/CSP/Using_Content_Security_Policy)
 
