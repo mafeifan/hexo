@@ -68,13 +68,13 @@ tags: 杂记
 
 有个专门展示柜，摆满了他们的游戏周边，游戏手办，可惜光看忘拍了，还有Switch，PS4游戏机！每天的下午茶，零食就更不用说了。
 
-![image.png](https://images.gitee.com/uploads/images/2019/0713/135653_6e49cb30_4177.jpeg)
+![image.png](https://images.gitee.com/uploads/images/2019/0713/172517_e7eaf968_4177.jpeg)
 
 有幸去看了坐落于正大广场的英雄联盟比赛会场的比赛，可惜没有见到主持人余霜
 
-![image.png](https://img1.doubanio.com/view/photo/l/public/p2552736028.webp)
+![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/p2552736028.webp)
 
-![image.png](https://img3.doubanio.com/view/photo/l/public/p2552736031.webp)
+![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/p2552736031.webp)
 
 上海是个非常不错的城市，另年轻人向往的城市，不过我跟分公司的同事聊天，他们有上海本地的，还有两个河南老乡，上海本地人结婚处对象还是更喜欢找本地的。
 
