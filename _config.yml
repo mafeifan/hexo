@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: flyforfun
-subtitle: 点滴记录
+title: mafeifan
+subtitle: 成为一个可以依靠的人，可以解决问题的人，一个更好的人
 description: 保持一颗向上的心
 author: Finley
 language: zh-Hans
@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://mafei.fun/
+url: https://www.mafeifan.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -42,7 +42,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -51,7 +51,7 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -76,10 +76,10 @@ theme: next
 
 sitemap:
     path: sitemap.xml
-    
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: 
+deploy:
   - type: git
     repo: git@github.com:mafeifan/mafeifan.github.io.git
     branch: master
