@@ -4,7 +4,7 @@
 
 # Site
 title: flyforfun
-subtitle: 点滴记录
+subtitle: 成为一个可以依靠的人，可以解决问题的人，一个更好的人
 description: 保持一颗向上的心
 author: Finley
 language: zh-Hans
@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://mafei.fun/
+url: https://www.mafeifan.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
