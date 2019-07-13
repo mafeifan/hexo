@@ -20,7 +20,6 @@ tags: 杂记
 
 <!--more-->
 
-=======
 ![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/22d38494a9e3d60d5e668e00dcdcebb6.png)
 
 上海有两个机场，分别是西边的虹桥和东边的浦东，一个国内航班多，一个国际航班多。
@@ -40,13 +39,12 @@ tags: 杂记
 ![image.png](http://image.mafeifan.com/images/2019/07/13/bb32922327bede3d754e975e6830d9f8.png)
 
 上海由于靠海，夏天雨水充足，街道很干净，也不会非常热，经常能看到高入云间的摩天大楼被笼罩在云雾之中。这在北方很少见。
-![image.png](https://images.gitee.com/uploads/images/2019/0713/135653_ca783919_4177.png)
 
 说几点给我比较震撼的地方吧：
 
 * 上海的地铁非常发达，著名的人民广场地铁站，是3条地铁交叉，地理位置类似郑州的紫荆山，有18个出入口！底下超大，有各种商店，音乐角，经常有公益演出。
 
-![AB66CE60-5D21-4952-AA56-47480955F76F.jpg](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/bb32922327bede3d754e975e6830d9f8.png)
+![AB66CE60-5D21-4952-AA56-47480955F76F.jpg](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/d210b7e8b9a959c8dcd01cb5e1f69a99.jpg)
 
 * 上海有家5层高的优衣库旗舰店，号称全球最大，里面衣服非常齐全。优衣库价格亲民，质量也不错，个人买了很多这个牌子的衣服。国内品牌多学学啊。
 
@@ -55,9 +53,7 @@ tags: 杂记
 * 上海市中心的公园很多，比较大还都免费，这是非常难得的，我去了离分公司不远的复兴公园，那里老年人在打太极，中年人推着小车，溜着小孩，还有很多老外也在那聊天，休息，十分悠闲。
 
 ![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/3907d84c117616b1f9702135514967cf.png)
-=======
 ![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/135653_9af628dd_4177.jpeg)
-![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/9ecbdc778a1ccc2896038c8b9e1fb952.png)
 
 郑州的公园要么比较小，要么比较远。这是一个值得学习的地方。舍得在寸土寸金的市区开辟一片区域供共用使用，需要政府有足够的魄力。
 
@@ -71,7 +67,6 @@ tags: 杂记
 
 有个专门展示柜，摆满了他们的游戏周边，游戏手办，可惜光看忘拍了，还有Switch，PS4游戏机！每天的下午茶，零食就更不用说了。
 
-=======
 ![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/135653_6e49cb30_4177.jpeg)
 
 有幸去看了坐落于正大广场的英雄联盟比赛会场的比赛，可惜没有见到主持人余霜

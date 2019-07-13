@@ -81,5 +81,5 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   - type: git
-    repo: git@github.com:mafeifan/mafeifan.github.io.git
+    repo: git@github.com:mafeifan/hexo.git
     branch: master
