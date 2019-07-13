@@ -20,7 +20,8 @@ tags: 杂记
 
 <!--more-->
 
-![image.png](https://images.gitee.com/uploads/images/2019/0713/174424_42a07ca7_4177.png)
+=======
+![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/22d38494a9e3d60d5e668e00dcdcebb6.png)
 
 上海有两个机场，分别是西边的虹桥和东边的浦东，一个国内航班多，一个国际航班多。
 
@@ -54,7 +55,9 @@ tags: 杂记
 * 上海市中心的公园很多，比较大还都免费，这是非常难得的，我去了离分公司不远的复兴公园，那里老年人在打太极，中年人推着小车，溜着小孩，还有很多老外也在那聊天，休息，十分悠闲。
 
 ![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/3907d84c117616b1f9702135514967cf.png)
-![image.png](https://images.gitee.com/uploads/images/2019/0713/135653_03e6996c_4177.png)
+=======
+![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/135653_9af628dd_4177.jpeg)
+![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/9ecbdc778a1ccc2896038c8b9e1fb952.png)
 
 郑州的公园要么比较小，要么比较远。这是一个值得学习的地方。舍得在寸土寸金的市区开辟一片区域供共用使用，需要政府有足够的魄力。
 
@@ -68,7 +71,8 @@ tags: 杂记
 
 有个专门展示柜，摆满了他们的游戏周边，游戏手办，可惜光看忘拍了，还有Switch，PS4游戏机！每天的下午茶，零食就更不用说了。
 
-![image.png](https://images.gitee.com/uploads/images/2019/0713/174639_626a9ba4_4177.jpeg)
+=======
+![image.png](https://hexo-blog.pek3b.qingstor.com/images/2019/07/13/135653_6e49cb30_4177.jpeg)
 
 有幸去看了坐落于正大广场的英雄联盟比赛会场的比赛，可惜没有见到主持人余霜
 
