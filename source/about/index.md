@@ -3,7 +3,7 @@ title: about
 date: 2018-02-08 14:36:28
 ---
 
-软件开发人员一名，终身学习者,擅长 PHP,Javascript(Angular, VueJS),NodeJS等，最近在研究CI/CD,Docker,Jenkins等运维相关技术。
+软件开发人员一名，终身学习者。擅长 PHP,Javascript(Angular, VueJS),NodeJS等，最近在研究CI/CD,Docker,Jenkins等运维相关技术。
 这里记录生活感悟相关。
 
 * [联系邮箱](mafeifan@vip.qq.com)
