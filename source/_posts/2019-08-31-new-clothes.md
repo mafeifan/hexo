@@ -70,11 +70,17 @@ tags: 杂记
 
 ![image.png](http://image.mafeifan.com/images/2019/08/31/89fd857fef84bbd1d823ee35e1a67c1c.png)
 
-我又来到了TOMMY HILFIGER的官方网站
+我又来到了TOMMY HILFIGER的[中文](https://www.tommy.com.cn/Shawn-same-style-SS19#page=1)和[英文](https://usa.tommy.com/en/mens-hilfiger-collection)官方网站
 
 ![image.png](http://image.mafeifan.com/images/2019/08/31/d17e40a63aead3ebd79d38313b87294f.png)
 
-嗯。。款式不赖
+嗯。。款式不赖，创建时间是1985
 
 ![image.png](http://image.mafeifan.com/images/2019/08/31/70dd2fb415668868aaf0705c76194a11.png)
 
+客观讲TOMMY CROWN摸着手感挺不错的，这次搞活动价格也不贵，不能说卖的是假货，店员也没有骗我，但是这种蹭热度打擦边球的不长久啊。
+当然他们可以哪个牌子火蹭哪个，割完换个马甲继续割
+
+https://www.zhihu.com/question/294971771?sort=created
+
+![image.png](http://image.mafeifan.com/images/2019/08/31/55ce5a4b796096f3af9cbded4d4a45a1.png)
