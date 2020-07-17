@@ -17,6 +17,8 @@ tags: 杂记
 
 上海的车站机场绝对是世界最繁忙的之一。
 
+补充，[上海机场](http://quote.eastmoney.com/sh600009.html)是常年的绩优股哦
+
 
 <!--more-->
 
