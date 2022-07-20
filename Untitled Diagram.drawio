@@ -1,4 +1,4 @@
-<mxfile modified="2022-07-20T12:19:42.013Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="mt5cTe5-TqkKlkc9MDMo" version="20.0.4" type="github">
+<mxfile modified="2022-07-20T12:20:15.001Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="qeLROwjeTgQcQsDfqRZT" version="20.0.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1819" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -628,7 +628,7 @@
         <mxCell id="AmXLDjNfCaVPL390mNVF-84" value="external user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1170" y="1780" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AmXLDjNfCaVPL390mNVF-125" value="KONE China Apps Gitlab CI/CD &lt;br&gt;with AWS process" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="AmXLDjNfCaVPL390mNVF-125" value="KONE China Apps Gitlab CI/CD &lt;br&gt;&amp;nbsp;process with AWS" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="350" y="1570" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AmXLDjNfCaVPL390mNVF-128" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="AmXLDjNfCaVPL390mNVF-47" target="AmXLDjNfCaVPL390mNVF-21">
